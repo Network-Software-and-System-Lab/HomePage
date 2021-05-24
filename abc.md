@@ -1,6 +1,6 @@
 ---
 title: How To
-layout: template
+layout: default
 filename: abc
 --- 
 
