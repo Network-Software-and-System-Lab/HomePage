@@ -25,9 +25,6 @@ Dell SonicWALL TZ400|1
 Smart Car|1
 Raspberry PI|3
 
-<img src="Photos/Curve Monitor.jpg" width="100" heiht="20">  <img src="Photos/Dell-N3024.jpg" width="100" heiht="20">  <img src="Photos/Dell-Optiplex 9020.jpg" width="100" heiht="20">  <img src="Photos/Dell-PowerEdge T430 -2.jpg" width="100" heiht="20">  <img src="Photos/Dell-PowerEdge T430 -3.jpg" width="100" heiht="20">  <img src="Photos/Dell-PowerEdge T430.jpg" width="100" heiht="20">  <img src="Photos/Desktops.jpg" width="100" heiht="20">  <img src="Photos/Monitors of Servers.jpg" width="100" heiht="20">  <img src="Photos/Printer.jpg" width="100" heiht="20">  <img src="Photos/Projector.jpg" width="100" heiht="20">  <img src="Photos/laptop - Apple.jpg" width="100" heiht="20">  <img src="Photos/laptop - Dell.jpg" width="100" heiht="20">
-
-
 # Other available Hardware:
 
 More than 40 workstations, routers, switches in public labs of the Department of Information and Logistics Technology at University of Houston.
