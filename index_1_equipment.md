@@ -4,7 +4,7 @@ layout: default
 filename: index_1_equipment
 --- 
 
-Table 1. Core Hardware and Software in the Network, Software and System Laboratory
+# Core Hardware and Software in the Network, Software and System Laboratory
 
 Description|Qty
 ------------ | -------------
@@ -24,3 +24,14 @@ Dell Networking W-Series Instant Access Points: Dell Networking W-IAP205|1
 Dell SonicWALL TZ400|1
 Smart Car|1
 Raspberry PI|3
+
+# Other available Hardware:
+
+More than 40 workstations, routers, switches in public labs of the Department of Information and Logistics Technology at University of Houston.
+
+# Operating system/development tools:
+
+Windows 8, Windows 10, UNIX, C++ Integrated Development Tools, Java Development Tools, Integrated Development Tools Borland JBuilder 3.0.
+
+# Team-made Tools/Software/Platform:
+Data  Flow  Based  Testing  Toolkit, Deep Learning Based High Performance Intelligent Monitoring System (including Abandoned Object Detection and Water Level Detection Sub-systems), High Risk Patient Behavior Data Analysis and HIPPA-based Secure Mobile App and Back-end Management System, Blockchain Based Global Market Trading Platform. 
