@@ -1,7 +1,7 @@
 ---
 title: How To
 layout: template
-filename: howto
+filename: abc.md
 --- 
 
 # How to Create a Multi-page Website using Github Pages
