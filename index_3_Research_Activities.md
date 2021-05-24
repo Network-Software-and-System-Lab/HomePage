@@ -1,5 +1,5 @@
 ---
-title: Research Publications
+title: Research
 layout: default
 filename: index_3_Research_Activities
 --- 
