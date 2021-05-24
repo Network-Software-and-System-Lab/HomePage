@@ -1,5 +1,5 @@
 ---
-title: Staff and Students
+title: People
 layout: default
 filename: index_2_Students
 --- 
