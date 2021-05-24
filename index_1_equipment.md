@@ -25,7 +25,7 @@ Dell SonicWALL TZ400|1
 Smart Car|1
 Raspberry PI|3
 
-![Printer](Photos/Printer.jpg =100x20) ![Projector](Photos/Projector.jpg =100x20)
+![Printer](Photos/Printer.jpg) ![Projector](Photos/Projector.jpg =100x20)
 
 # Other available Hardware:
 
