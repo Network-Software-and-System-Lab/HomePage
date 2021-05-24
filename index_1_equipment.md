@@ -25,6 +25,8 @@ Dell SonicWALL TZ400|1
 Smart Car|1
 Raspberry PI|3
 
+![Printer](./Photos/Printer.jpg =100x20) ![Projector](./Photos/Projector.jpg =100x20)
+
 # Other available Hardware:
 
 More than 40 workstations, routers, switches in public labs of the Department of Information and Logistics Technology at University of Houston.
