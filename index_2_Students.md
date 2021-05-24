@@ -4,17 +4,17 @@ layout: default
 filename: index_2_Students
 --- 
 
-#Doctoral Advisory Committee
+# Doctoral Advisory Committee
 
 1.	Thanh Hung Duong, advisor: Miao Pan, Department of Electrical and Computer Engineering, UH, 2020, 2021.
 2.	Anukriti Mishra, advisor: Albert Cheng, Department of Computer Science, UH, 2019, 2020.
 
-#Advised Ph.D. students
+# Advised Ph.D. students
 
 3.	RA, Khadija khaldi, advisor: Shishir Shah, Summer 2019.
 4.	RA, Ali Memariani, advisor: Ioannis Kakadiaris, Fall 2019.
 
-#Advised Master students
+# Advised Master students
 
 5.	RA, Mohan Reddy, 2021
 6.	RA, Anh Nguyeni, 2021.
@@ -47,7 +47,7 @@ filename: index_2_Students
 33.	IA, Sagar Limaye, 2017.
 34.	IA, Dharani Chandran, 2016.
 
-#Undergraduate students
+# Undergraduate students
 
 1.	Volunteer, Zach Haven, 2018.
 2.	RA, Feng Guo, 2016.
